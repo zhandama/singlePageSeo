@@ -1,0 +1,16 @@
+{
+  "name": "1111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express_spider.js",
+  "scripts": {
+    "dev": "node express_spider.js --exec babel-polyfill",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "express": "^4.16.2"
+  }
+}
